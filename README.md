@@ -18,7 +18,7 @@
 
 5. **MITx: Mathematical Methods for Quantitative Finance (EdX 4 months)**
 
-# Quant Projects
+# [Quant Projects](https://openquant.co/blog/quantitative-finance-portfolio-projects)
 
 ## 1. Machine Learning Visualization Project
 
