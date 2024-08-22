@@ -9,7 +9,7 @@
    - 2.1 Introduction to Financial Engineering and Risk Management (17h)
    - 2.2 Term-Structure and Credit Derivatives (13h)
    - 2.3 Optimization Methods in Asset Management (14h)
-   - *.4 Advanced Topics in Derivative Pricing (16h)
+   - 2.4 Advanced Topics in Derivative Pricing (16h)
    - 2.5 Computational Methods in Pricing and Model Calibration (24h)
 
 3. **Quantitative Trading (Udacity 2 months)**
